@@ -7,11 +7,12 @@ This is the backend for the Community App, a social networking application built
 
 1. **Clone the repository:**
    
-    git clone https://github.com/Tetsewa/BuurtHub-backend
+    git clone https://github.com/Tetsewa/BuurtHub-backend.git
+   
     cd BuurtHub-backend
    
 
-2. **Install dependencies:**
+3. **Install dependencies:**
    
   -  npm install node
    - npm install express
