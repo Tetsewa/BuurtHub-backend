@@ -7,8 +7,8 @@ This is the backend for the Community App, a social networking application built
 
 1. **Clone the repository:**
    
-    git clone https://github.com/Sowjanyakambhampati/BuurtHub
-    cd community-forum-backend
+    git clone https://github.com/Tetsewa/BuurtHub-backend
+    cd BuurtHub-backend
    
 
 2. **Install dependencies:**
@@ -49,17 +49,12 @@ This is the backend for the Community App, a social networking application built
 
 
 ### Authors
-
+-- [@Ama Williams Tetsewa](https://github.com/Tetsewa)
 - [@Sowjanya Kambhampati](https://github.com/sowjanyakambhampati)
 
-- [@Ama Williams Tetsewa](https://github.com/Tetsewa)
-
-### Demo Link
-
-https://community-forum-backend.adaptable.app
 
 ### Support
-For support and suggestions, email sowjanyaakella87@gmail.com or amatwilliams@gmail.com.
+For support and suggestions, email amatwilliams@gmail.com and sowjanyaakella87@gmail.com.
 
 
 
